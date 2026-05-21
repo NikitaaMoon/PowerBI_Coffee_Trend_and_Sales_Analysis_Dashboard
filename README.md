@@ -255,11 +255,8 @@ Avg_Weekend_Spends_% =
 
 <div align="center">
 
-> 📌 *Replace the placeholders below with actual screenshots from Power BI*
-
-| Page 1 — Main Dashboard | Page 2 — Navigation Hub |
-|:-----------------------:|:-----------------------:|
-| ![Dashboard Page 1](screenshots/page1.png) | ![Dashboard Page 2](screenshots/page2.png) |
+> 
+| ![Dashboard ](https://github.com/NikitaaMoon/PowerBI_Coffee_Trend_and_Sales_Analysis_Dashboard/blob/main/Coffee%20Trend%20and%20Sales%20Analysis%20Dashboard.png) | 
 | 9 KPI Cards + 3 Charts + Slicer | Navigation Button Panel |
 
 </div>
